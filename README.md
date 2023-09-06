@@ -1,4 +1,4 @@
-# EM_Dataset-ColmapValidation
+# EM_Dataset-GeometricCalibration
 
 This repository contains the software for the EndoMapper dataset geometric calibration and validation:  
 

@@ -1,3 +1,10 @@
+# EM_Dataset-ColmapValidation
+
+This repository contains the software for the EndoMapper dataset geometric calibration and validation:  
+
+    Azagra P. et al. Endomapper dataset of complete calibrated endoscopy procedures. Scientific Data. 2023. Accepted for publication
+
+    
 # INSTALATION STEPS
 
 - Follow the step to install Vicalib from the original source:

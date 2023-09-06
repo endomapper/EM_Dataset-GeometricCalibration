@@ -2,7 +2,8 @@
 
 - Follow the step to install Vicalib from the original source:
    https://github.com/arpg/vicalib
-- Instead of compiling the original, compile the version in the Vicalib folder of this repository.
+- Instead of compiling the original, compile the fork:
+   https://github.com/pazagra/vicalib
 
 # AUXILIAR CODE
 
